@@ -1,0 +1,17 @@
+body{
+  background-color: #EEE;
+}
+
+h1{
+  color: blue
+}
+
+header{
+  background-color: #66CCFF;
+  color: White ;
+  text-align:center;
+}
+
+content{
+  padding: 120px
+}
